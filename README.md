@@ -11,13 +11,13 @@ Define function Circulate()
 Assign a list num = [10,20,30,40,50,60]
 ### Step 3:
  Process a cir = num[n:]+num[:n]
-Get the value from the user for the number of rotation
+Get the value from the user for the number of rotation.
 ### Step 4: 
-Using the slicing concept rotate the list
+Using the slicing concept rotate the list.
 ### Step 5: 
-Display the list by calling the function circulate()
+Display the list by calling the function circulate().
 ### Step 6: 
-End the program
+End the program.
 ## Program:
 ~~~
 #Program to circulate N values.
@@ -31,5 +31,6 @@ n=int(input())
 print("After circulating the values are:",circulate())
 ~~~
 ## Output:
+![OutPut1](./Circulate.png)
 
 ## Result:
